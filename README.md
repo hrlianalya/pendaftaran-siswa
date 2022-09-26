@@ -1,2 +1,2 @@
-# pendaftaran-siswa
+# pendataan-siswa
 aplikasi untuk pendataan siswa
